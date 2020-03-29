@@ -15,21 +15,6 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NACIONAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - FILMES NACIONAIS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]AÇÃO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
 <externallink>https://</externallink>
@@ -42,3 +27,124 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE ANIMAÇÃO / DESENHO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]AVENTURA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE AVENTURA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]BIOGRAFIA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE BIOGRAFIAS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]COMÉDIA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE COMÉDIA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DRAMA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DRAMÁTICOS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FANTASIA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE FANTASIA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FAROESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE FAROESTE - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FICÇÃO CIENTÍFICA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE FICÇÃO CIENTÍFICA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
