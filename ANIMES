@@ -1,33 +1,14 @@
-MODELO COM VÁRIOS LINKS
-
-<item>
-<title>Saint Seiya - The Lost Canvas</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vGWsg8W5r0rTGj-tdfWuo8GoEwqLjaqb/view$$lsname=[COLOR lime]HD[/COLOR] - Saint Seiya - The Lost Canvas (Português) Ep 1 - A Promessa (720p)</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2/link>
-<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>[
+<channels>
+<channel>
+<name>[COLOR lime]●[/COLOR] [COLOR white]SAINT SEIYA - THE LOST CANVAS (DUBLADO) - TODOS OS EPISÓDIOS[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2CLmvKdPVe9DirsAM51OTvMzmvh.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/minervap/minerva-project/master/Saint%20Seiya%20-%20The%20Lost%20Canvas</externallink>
 <fanart>https://image.tmdb.org/t/p/original/yJE5BxxBECWseQnX7ZItn5qJsbS.jpg</fanart>
-<info>Saint Seiya: The Lost Canvas – The Myth of Hades, também conhecido como Simplesmente A Tela Perdida, é um mangá escrito e ilustrado por Shiori Teshirogi. É um spin-off baseado na série de mangá Saint Seiya, que foi criada, escrita e ilustrada pelo autor japonês Masami Kurumada. The Lost Canvas foi publicado por Akita Shoten na revista Weekly Shōnen Champion desde 24 de agosto de 2006, concluindo após 223 capítulos em 6 de abril de 2011, com 25 tankōbon lançados. Originalmente imaginada como uma história em quadrinhos cujo propósito era trabalhar simultaneamente com Saint Seiya Next Dimension de Kurumada como uma interpretação multi-angular dos elementos compartilhados de sua história, que deriva de um evento mencionado no Santo original de Kurumada Mangá seiya; a abordagem foi rapidamente abandonada, como ambos os trabalhos muito divergentes, A Próxima Dimensão de Kurumada permaneceu como a narrativa canônica desses eventos, e The Lost Canvas como uma releitura alternativa separada. A história se passa no século XVIII, e se concentra em como um órfão conhecido como Tenma se torna um dos 88 guerreiros de Atena conhecidos como Santos e encontra-se em uma guerra lutando contra seu melhor amigo Alone, que é revelado ser a reencarnação do maior inimigo de Atena , o Deus Hades.</info>
-</item>
+<info>
 
 
-MODELO GDRIVE DE APENAS UM LINK
+[COLOR deeppink]|[/COLOR] - QUALIDADE PARA VOCÊ E SUA FAMÍLIA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-
-MODELO UNIVERSAL DE APENAS UM LINK
-
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[/B]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
