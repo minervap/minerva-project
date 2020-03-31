@@ -8,7 +8,7 @@
 
 
 [COLOR white]Versão:[/COLOR] [COLOR limegreen]1.0.0
-© 2020 Minerva Project, todos os direitos reservados.[/COLOR]</info>
+[COLOR white]© 2020 Minerva Project[/COLOR]</info>
 </channel>
 </channels>
 
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR]</name>
+<name><B>[COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR]</B></name>
 <thumbnail>https://ia601409.us.archive.org/33/items/fanart_20200329_1548/Entre.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/minervap/minerva-project/master/CATEGORIAS2</externallink>
 <fanart>https://ia601409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
