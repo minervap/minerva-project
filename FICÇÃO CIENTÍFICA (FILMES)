@@ -1,0 +1,11 @@
+MODELO COM VÁRIOS LINKS
+
+<item>
+<title>MATRIX (TRILOGIA)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2/link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>[
+<thumbnail>https://image.tmdb.org/t/p/original/aWFDGCINBSG0BQHsxQDJtSEDxx7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7u3pxc0K1wx32IleAkLv78MKgrw.jpg</fanart>
+<info></info>
+</item>
