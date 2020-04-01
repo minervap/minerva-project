@@ -9,3 +9,14 @@ MODELO COM VÁRIOS LINKS
 <fanart>https://image.tmdb.org/t/p/original/7u3pxc0K1wx32IleAkLv78MKgrw.jpg</fanart>
 <info></info>
 </item>
+
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>A 5ª ONDA</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dK0zdeWBoH8yNPmf4bVfv0N2Ls3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1usA1K56wW97McyXPuUL1OTRDBO.jpg</fanart>
+<info>No futuro, a Terra é tomada por alienígenas. Na primeira onda de ataques, um pulso eletromagnético acaba com toda a eletricidade do planeta. Na segunda, um tsunami mata 40% da população. Na terceira onda, os pássaros começam a transmitir um vírus que mata 97% das pessoas que resistiram aos outros ataques. Já na quarta onda, a adolescente Cassie Sullivan (Chlöe Grace Moretz) precisa se virar sozinha para sobreviver e ainda reencontrar seu irmão.</info>
+</item>
