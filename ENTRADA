@@ -16,6 +16,23 @@
 
 <channels>
 <channel>
+<name>[COLOR darkturquoise]CONTATO / SUPORTE[/COLOR]</name>
+<thumbnail>https://ia601409.us.archive.org/33/items/fanart_20200329_1548/Bem-vindo.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601409.us.archive.org/33/items/fanart_20200329_1548/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink][/COLOR]Nosso projeto é novo e está em fase de desenvolvimento, qualquer dúvida ou conteúdos indisponíveis, favor nos comunicar através dos meios abaixo:
+SITE:
+E-MAIL:[COLOR deeppink][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR darkturquoise]DOAÇÃO[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/33/items/fanart_20200329_1548/Bem-vindo.png</thumbnail>
 <externallink>https://</externallink>
@@ -23,7 +40,7 @@
 <info>
 
 
-[COLOR deeppink][/COLOR]O Minerva Project é gratuito e sempre será, para nos ajudar a mantê-lo, você pode contribuir através de uma doação. ❤[COLOR deeppink][/COLOR]</info>
+[COLOR deeppink][/COLOR]O Minerva Project é gratuito e sempre será, para nos ajudar a mantê-lo, você pode contribuir através de uma doação.[COLOR deeppink][/COLOR]</info>
 </channel>
 </channels>
 
